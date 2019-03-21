@@ -33,7 +33,7 @@ The E-mail automation is being generated in case when there is only the price dr
 
 
 
-# Advantages
+# Proposed System
 Automatically the bot monitors on the price change. 
 Sends a notification message along with a voice message to make the customer aware. 
 In case of price drop ,it sends an email invitation to purchase the product with that product-purchase link No manual checking for price drop/ Time consumption
