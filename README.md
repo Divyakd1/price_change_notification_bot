@@ -37,8 +37,12 @@ Automatically the bot monitors on the price change.
 Sends a notification message along with a voice message to make the customer aware. 
 In case of price drop ,it sends an email invitation to purchase the product with that product-purchase link No manual checking for price drop/ Time consumption
 
-# Demo Video
+# Future Enhancement
+SMS service for the user who created account using their mobile number.
+SMS service is not given access in India at present by Uipath community
 
+
+# Demo Video
 https://www.youtube.com/watch?v=X1yes27uWnE&feature=youtu.be
 
 # Team Members
